@@ -2,29 +2,31 @@ const INFO = {
 	main: {
 		title: "Reactfolio by truethari",
 		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		email: "ianklugdev@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		twitter: "https://twitter.com/whatklug",
+		github: "https://github.com/iklug",
+		linkedin: "https://www.linkedin.com/in/ian-klug-2502b5294/",
+		instagram: "https://www.instagram.com/iklug/",
 		stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Web developer, registered nurse, and learning to make those co-exist.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"My name is Ian Klug. In the 10 years that I have been a nurse, I have seen ever-advancing technology completely take over and shake up all aspects of our lives. I have also seen a healthcare system that rejects change, technological or otherwise, every chance it gets. I'm trying to change that. ",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			`I have been in love with technology ever since my little baby hands could grip a mouse. I was also in love with the US Healthcare system after I binged Scrubs DVDs as an impressionable college-bound high schooler. I turned one of those things into my career. Yes, for the last 10 years I have been a registered nurse. I started my nursing journey at the University of Wisconsin-Madison, and although every hospital I worked at in Madison, WI used the most up to date electronic medical records (thanks Epic), as I moved around the country I found that this was the exception, not the rule.
+
+			After spending a decade in hospitals, I began to wonder how I would improve the healthcare experience, not only for myself, but for everyone. I began teaching myself JavaScript, React, Node.Js, anything that might help turn ideas into solutions. `,
 	},
 
 	articles: {
@@ -35,7 +37,7 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "DBSA Symptom Tracker",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
@@ -44,9 +46,9 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "IBDiary",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A Calendar app made for individuals with inflammatory bowel disease (IBD).",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com",
@@ -55,7 +57,7 @@ const INFO = {
 		{
 			title: "Project 3",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Lorem ipsum dolor sit amet. Eawrt awrt awrt awt awetunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "https://github.com",
