@@ -31,10 +31,6 @@
 	display: flex;
 	flex-direction: column;
 	align-items: start;
-	border-color: red;
-	border-width: 1px;
-	border-style: dotted;
-	
 }
 
 .project-logo {
@@ -56,7 +52,6 @@
 
 .project-description {
 	color: var(--secondary-color);
-	flex-grow: 1;
 
 }
 
